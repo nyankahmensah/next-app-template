@@ -1,7 +1,7 @@
 {
   "name": "next-app-template",
   "version": "1.0.0",
-  "description": "Starter Application for NextJs Project; ApolloClient, TailwindCss, Sentry",
+  "description": "Starter Application for NextJs Project; ApolloClient, TailwindCss, Sentry, i18next",
   "private": true,
   "scripts": {
     "dev": "next dev",
